@@ -80,8 +80,8 @@ Data Structures • Algorithms • Time Complexity Analysis • Object-Oriented 
 ---
 
 ## Connect
-LinkedIn: https://www.linkedin.com/in/triakshasingh/  
-GitHub: https://github.com/triakshasingh
-Email: triakshasingh@gmail.com
-School Email: tsingh05@uw.edu
-Contact: +1 2066056394
+- LinkedIn: https://www.linkedin.com/in/triakshasingh/  
+- GitHub: https://github.com/triakshasingh
+- Email: triakshasingh@gmail.com
+- School Email: tsingh05@uw.edu
+- Contact: +1 2066056394
