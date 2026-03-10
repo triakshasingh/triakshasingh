@@ -15,7 +15,7 @@ I enjoy building technically deep systems that require strong fundamentals in al
 
 ## Featured Projects
 
-### Limit Order Book Engine (https://github.com/triakshasingh/limit-order-book)
+### Limit Order Book Engine (https://github.com/triakshasingh/limitOrderBook)
 Built a high performance limit order book and matching engine that simulates the behavior of electronic exchanges.
 
 **Highlights**
