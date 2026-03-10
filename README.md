@@ -57,18 +57,6 @@ Machine learning pipeline for predicting diabetes using the Pima Indians Diabete
 
 ---
 
-### Embedded Systems & Device Integration
-
-Hardware–software integration work involving microcontrollers, real-time device communication, and distributed system coordination.
-
-**Highlights**
-
-- Architected communication pipeline between **ESP32 firmware and Raspberry Pi controller** using WiFi and structured JSON messaging
-- Implemented distributed device state management across firmware and backend services
-- Integrated Linux-based controller systems with telemetry pipelines
-- Debugged cross-layer issues across firmware, hardware interfaces, and backend components
-
----
 
 ## Tech Stack
 <table> <tr> <td align="center" width="100"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br>Python </td> <td align="center" width="100"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/><br>C++ </td> <td align="center" width="100"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/><br>Java </td> <td align="center" width="100"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/><br>C </td> <td align="center" width="100"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/><br>Linux </td> <td align="center" width="100"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br>Git </td> </tr> <tr> <td align="center" width="100"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/><br>NumPy </td> <td align="center" width="100"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/><br>Pandas </td> <td align="center" width="100"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="50"/><br>SciPy </td> <td align="center" width="100"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50"/><br>scikit-learn </td> <td align="center" width="100"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50"/><br>OpenCV </td> <td align="center" width="100"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="50"/><br>Raspberry Pi </td> </tr> </table>
