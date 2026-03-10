@@ -42,6 +42,28 @@ Quantitative finance toolkit for statistical volatility modeling and large-scale
 
 ---
 
+### [Diabetes Prediction ML](https://github.com/triakshasingh/Diabetes_Prediction-ML-)
+
+Machine learning pipeline for predicting diabetes using the Pima Indians Diabetes dataset.
+
+**Highlights**
+
+- Built end-to-end ML workflow including preprocessing, model training, and evaluation  
+- Standardized medical feature inputs using **StandardScaler**  
+- Implemented **linear Support Vector Machine (SVM)** classifier  
+- Used **80/20 stratified train-test split** to maintain class balance  
+- Evaluated model performance using accuracy metrics on training and test datasets  
+- Supports **single-user predictions** via manual feature input
+
+**Model Pipeline**
+
+- Dataset: Pima Indians Diabetes dataset  
+- Preprocessing: StandardScaler fitted on training features  
+- Model: Linear SVM classifier  
+- Evaluation: Train/test accuracy comparison
+
+---
+
 ### Embedded Systems & Device Integration
 
 Hardware–software integration work involving microcontrollers, real-time device communication, and distributed system coordination.
