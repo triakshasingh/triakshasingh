@@ -55,13 +55,6 @@ Machine learning pipeline for predicting diabetes using the Pima Indians Diabete
 - Evaluated model performance using accuracy metrics on training and test datasets  
 - Supports **single-user predictions** via manual feature input
 
-**Model Pipeline**
-
-- Dataset: Pima Indians Diabetes dataset  
-- Preprocessing: StandardScaler fitted on training features  
-- Model: Linear SVM classifier  
-- Evaluation: Train/test accuracy comparison
-
 ---
 
 ### Embedded Systems & Device Integration
