@@ -15,7 +15,7 @@ I enjoy building technically deep systems that require strong fundamentals in al
 
 ## Featured Projects
 
-### Limit Order Book Engine
+### Limit Order Book Engine (https://github.com/triakshasingh/limit-order-book)
 Built a high performance limit order book and matching engine that simulates the behavior of electronic exchanges.
 
 **Highlights**
@@ -24,7 +24,7 @@ Built a high performance limit order book and matching engine that simulates the
 - Data structures optimized for fast lookup and updates
 - Focus on throughput and correctness
 
-### Volatility Estimator
+### Volatility Estimator (https://github.com/triakshasingh/volatility-estimator-)
 Quantitative finance project modeling and analyzing market volatility using statistical time series techniques.
 
 **Highlights**
