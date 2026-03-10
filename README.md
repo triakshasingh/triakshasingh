@@ -15,43 +15,61 @@ I enjoy building technically deep systems that require strong fundamentals in al
 
 ## Featured Projects
 
-### Limit Order Book Engine (https://github.com/triakshasingh/limitOrderBook)
-Built a high performance limit order book and matching engine that simulates the behavior of electronic exchanges.
+### [Limit Order Book & Matching Engine](https://github.com/triakshasingh/limitOrderBook)
+
+High performance electronic exchange simulation implementing deterministic order matching and efficient market data processing.
 
 **Highlights**
-- Price–time priority order matching
-- Efficient order insertion, cancellation, and execution
-- Data structures optimized for fast lookup and updates
-- Focus on throughput and correctness
 
-### Volatility Estimator (https://github.com/triakshasingh/volatility-estimator-)
-Quantitative finance project modeling and analyzing market volatility using statistical time series techniques.
+- Implemented price–time priority limit order book with **O(log P)** price level updates  
+- Achieved **O(1)** order cancellation using hash index and intrusive linked lists  
+- Implemented deterministic matching for market and limit orders with partial fills  
+- Benchmarked **1,000,000 synthetic events at ~102k events/sec**  
+- Engine latency: **p50 5.29µs, p95 13.18µs, p99 20.33µs**
 
-**Highlights**
-- Realized volatility calculations
-- EWMA volatility modeling
-- Historical market data analysis
-- Numerical computing in Python
+---
 
-### Embedded Systems Development
-Worked on hardware–software integration projects using microcontrollers and single-board computers.
+### [Volatility Estimator Toolkit](https://github.com/triakshasingh/volatility-estimator-)
+
+Quantitative finance toolkit for statistical volatility modeling and large-scale time series analysis.
 
 **Highlights**
-- Raspberry Pi and ESP32 integration
-- Sensor and actuator control
-- Real-time device communication
-- Hardware debugging and system testing
+
+- Implemented rolling-window and **EWMA volatility estimators**
+- Built modular financial analytics pipelines for time-series computation
+- Optimized computations using **vectorized NumPy operations**
+- Benchmarked estimator behavior under simulated market shocks
+
+---
+
+### Embedded Systems & Device Integration
+
+Hardware–software integration work involving microcontrollers, real-time device communication, and distributed system coordination.
+
+**Highlights**
+
+- Architected communication pipeline between **ESP32 firmware and Raspberry Pi controller** using WiFi and structured JSON messaging
+- Implemented distributed device state management across firmware and backend services
+- Integrated Linux-based controller systems with telemetry pipelines
+- Debugged cross-layer issues across firmware, hardware interfaces, and backend components
+
+---
 
 ## Core Skills
 
 **Languages**  
-Python, Java, C++, C
+Python • C++ • Java • C
 
-**Areas**  
-Algorithms, Quantitative Modeling, Machine Learning, Systems Programming, Embedded Systems
+**Quant / Data**  
+NumPy • pandas • SciPy • scikit-learn • statsmodels
 
-**Tools**  
-Git, Linux, NumPy, pandas, OpenCV, Raspberry Pi, ESP32
+**Systems**  
+Linux • Git • Embedded Systems • Real-Time Communication
+
+**Core CS**  
+Data Structures • Algorithms • Time Complexity Analysis • Object-Oriented Programming
+
+---
 
 ## Current Focus
 - Quantitative finance infrastructure
@@ -59,6 +77,8 @@ Git, Linux, NumPy, pandas, OpenCV, Raspberry Pi, ESP32
 - Applied machine learning
 - Embedded device integration
 
+---
+
 ## Connect
-- LinkedIn: https://www.linkedin.com/in/triakshasingh/
-- GitHub: https://github.com/triakshasingh
+LinkedIn: https://www.linkedin.com/in/triakshasingh/  
+GitHub: https://github.com/triakshasingh
