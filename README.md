@@ -2,8 +2,8 @@
 
 Electrical & Computer Engineering student at the University of Washington interested in quantitative systems, machine learning, and high performance software.
 
-- 🌐 [Website](https://triakshasingh.com) •  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/triakshasingh/) •  
+- 🌐 [Website](https://triakshasingh.com) 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/triakshasingh/)  
 
 ## About
 I enjoy building technically deep systems that require strong fundamentals in algorithms, performance optimization, and software design. My interests lie at the intersection of quantitative finance, systems engineering, and applied machine learning.
