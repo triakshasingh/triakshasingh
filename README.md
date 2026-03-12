@@ -1,6 +1,8 @@
 # Triaksha Singh
 
 Electrical & Computer Engineering student at the University of Washington interested in quantitative systems, machine learning, and high performance software.
+🌐 [Website](https://triakshasingh.com) •  
+🔗 [LinkedIn](https://www.linkedin.com/in/triakshasingh/) •  
 
 ## About
 I enjoy building technically deep systems that require strong fundamentals in algorithms, performance optimization, and software design. My interests lie at the intersection of quantitative finance, systems engineering, and applied machine learning.
@@ -72,8 +74,6 @@ Machine learning pipeline for predicting diabetes using the Pima Indians Diabete
 ---
 
 ## Connect
-- LinkedIn: https://www.linkedin.com/in/triakshasingh/  
-- GitHub: https://github.com/triakshasingh
 - Email: triakshasingh@gmail.com
 - School Email: tsingh05@uw.edu
 - Contact: +1 2066056394
