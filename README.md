@@ -36,7 +36,7 @@ Dual H-bridge motor driver PCB for brushed DC motor control.
 
 ## Stack
 
-`C++` `Python` `C` `Java` `KiCad` `ROS2` `PyTorch` `NumPy` `OpenCV` `Linux` `Git`
+`Python` `Java` `C` `KiCad` `ROS2` `PyTorch` `NumPy` `Linux` `Git`
 
 ---
 
