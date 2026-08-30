@@ -8,6 +8,10 @@ ECE student at the University of Washington building systems at the intersection
 
 ## Projects
 
+### [Self Balancing Robot](https://github.com/triakshasingh/Self_Balancing_Robot)
+Two-wheeled inverted-pendulum robot on a custom ESP32-S3 PCB, balancing via IMU sensor fusion and PID control.
+- ESP32-S3, MPU-6500 IMU (I²C), DRV8833 dual H-bridge driver; complementary-filter sensor fusion + PID control in C++
+  
 ### [TPS54331 Buck Converter PCB](https://github.com/triakshasingh/TPS54331_Buck_Converter)
 12V to 5V step-down switching regulator, simulated in LTspice and laid out in KiCad.
 - TI TPS54331, 3A output, non-synchronous buck, 0.8V reference feedback
